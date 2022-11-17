@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bf49&height=180&section=header&text=Jéssica Thomaz&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bf49&height=180&section=header&text=Jéssica Thomaz&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> -->
 
 <!-- 
 <div align="center">
@@ -38,16 +38,40 @@ Here are some ideas to get you started:
 
 
 ### Main skills:
-![image](https://user-images.githubusercontent.com/26485997/158026366-242fe3ee-20d8-4e9f-8d34-92f093471e63.png) ![image](https://user-images.githubusercontent.com/26485997/158026372-e9b9a057-138d-4acd-bd3d-cbf9b1ee5cd0.png) ![image](https://user-images.githubusercontent.com/26485997/158026377-50fd2b3e-e694-4114-b56f-92a835ef4729.png) ![image](https://user-images.githubusercontent.com/26485997/158026386-b0e11f7d-83dd-4e4e-8fe3-e57da66cc0c5.png)
+<div>
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />       
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
+</div>          
+          
+          
 
 ### Other Knowledge:
-![image](https://user-images.githubusercontent.com/26485997/158026441-11be8f4c-5566-4c04-8d99-1469552ef66f.png) ![image](https://user-images.githubusercontent.com/26485997/158026448-e6663aae-3c1d-491e-8989-5586d11026de.png) 
+<div>
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</div>     
 
 ### Tools:
-![image](https://user-images.githubusercontent.com/26485997/158025701-0de67b14-f3c5-42bd-a912-afa6b9ea6a61.png) ![image](https://user-images.githubusercontent.com/26485997/158025757-a2a36134-bb42-42b7-9955-a3e0291d2541.png) ![image](https://user-images.githubusercontent.com/26485997/158025767-f2638d09-86e8-4b6f-8d56-c72b2c3decf4.png)
+<div>       
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
 
 ### Studying in this moment:
-![image](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+<div>
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+</div>
+          
+
+          
 
 
 <div align="center">
