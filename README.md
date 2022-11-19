@@ -69,9 +69,6 @@ Here are some ideas to get you started:
    <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
    <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 </div>
-          
+<img src="https://github.com/jessicathomaz1/jessicathomaz1/blob/output/github-contribution-grid-snake.svg" />
 
-          
-
-
-![Snake animation](https://github.com/jessicathomaz1/jessicathomaz1/blob/output/github-contribution-grid-snake.svg)
+    
