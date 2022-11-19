@@ -31,9 +31,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-  I have a degree in computer science and a postgraduate degree in cross-platform mobile application projects.  <br/>
-  I have experience in developing in HTML, CSS, Javascript, Angular, PostgreSQL languages.  I am currently participating in Bootcamp Elixir by Solfácil.  At the beginning of the pandemic I worked on projects for public schools in the state of Pará and I work on a monitoring project for a bank called Banpará.
-  I am always studying and developing to improve my skills.
+  I have experience in development in HTML, CSS, Javascript, React, Angular, PostgreSQL languages. At the beginning of the pandemic I worked on projects for public schools in the state of Pará and I worked on a bank monitoring project and I am currently working on a project that uses C# at the Bank of the State of Pará - Banpará.
 
 
 
