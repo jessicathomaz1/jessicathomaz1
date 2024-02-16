@@ -31,42 +31,37 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-  I have experience in development in HTML, CSS, Javascript, React, Angular, PostgreSQL languages. At the beginning of the pandemic I worked on projects for public schools in the state of Pará and I worked on a bank monitoring project and I am currently working on a project that uses C# at the Bank of the State of Pará - Banpará.
+  Sou uma desenvolvedora de aplicações fullstack, formada em Ciência da Computação, pós-graduada em Projetos de Aplicações Móveis Multiplataforma e mais de 5 anos de experiência em codificação.
+Possuo conhecimento em .NET, Oracle, PostgreSQL e JavaScript, adotando diferentes frameworks e paradigmas com conhecimento em React e Angular.
+Atualmente atuo como desenvolvedora de aplicações na empresa IBM.
 
+Principais tecnologias:
+- .NET
+- JavaScript, TypeScript
+- React, Angular
+- HTML5, CSS3, Tailwind CSS, SASS/SCSS
+- Git / GitHub
+- Node.js (REST APIs, GraphQL)
+- Swagger
+- Agile Methodology: Scrum/Kanban
+- Database: Oracle, PostgreSQL
 
+### Conecte-se comigo
 
-### Main skills:
-<div>
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />       
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
-</div>          
-          
-          
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/jessica_claudiat)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jessica.claudiat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jessicathomaz1/)
 
-### Other Knowledge:
-<div>
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div>     
+### Habilidades
+![C#](https://img.shields.io/badge/csharp-000?style=for-the-badge&logo=csharp&logoColor=30A3DC)
+![.NET](https://img.shields.io/badge/.net-000?style=for-the-badge&logo=dotnet&logoColor=30A3DC)
+![ORACLE](https://img.shields.io/badge/oracle-000?style=for-the-badge&logo=oracle&logoColor=C74634)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 
-### Tools:
-<div>       
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</div>
-
-### Studying in this moment:
-<div>
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-   <img width="5%" height="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-</div>
-<img src="https://github.com/jessicathomaz1/jessicathomaz1/blob/output/github-contribution-grid-snake.svg" />
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)         
+         
 
     
